@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Bawariya",
+          artist: "Vilen",
+          cover: "https://c.saavncdn.com/915/Bawariya-Hindi-2023-20231119053151-500x500.jpg",
+          source: "mp3/Bawariya.mp3",
+          url: "https://youtu.be/KpGPPoDHi-Q?si=-VJDCND9aRJcX-sa",
+          favorited: false
+        },
+        {
           name: "Rahgira Mila Kabira Se ",
           artist: "Rahgir",
           cover: "https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-wall-texture-effect-with-gold-grunge-image_15562110.jpg",
@@ -82,14 +90,7 @@ new Vue({
           url: "https://youtu.be/qVHaXD7zHDQ?si=Lx33e7BKlQP0WPQg",
           favorited: true
         },
-        {
-          name: "Bawariya",
-          artist: "Vilen",
-          cover: "https://c.saavncdn.com/915/Bawariya-Hindi-2023-20231119053151-500x500.jpg",
-          source: "mp3/Bawariya.mp3",
-          url: "https://youtu.be/KpGPPoDHi-Q?si=-VJDCND9aRJcX-sa",
-          favorited: false
-        },
+
         {
           name: "Tu Hain Tho",
           artist: " Bunny & Sagar",
