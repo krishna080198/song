@@ -18,6 +18,14 @@ new Vue({
           favorited: false
         },
         {
+          name: "Devine",
+          artist: "Krishna hazar",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+          source: "mp3/Devine.mp3",
+          url: "https://youtu.be/K6MhtQ1uREs?si=e3UtImtl4VuZjuUX",
+          favorited: false
+        },
+        {
           name: "Rahgira Mila Kabira Se ",
           artist: "Rahgir",
           cover: "https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-wall-texture-effect-with-gold-grunge-image_15562110.jpg",
@@ -34,14 +42,7 @@ new Vue({
           favorited: false
         },
         
-        {
-          name: "Devine",
-          artist: "Krishna hazar",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "mp3/Devine.mp3",
-          url: "https://youtu.be/K6MhtQ1uREs?si=e3UtImtl4VuZjuUX",
-          favorited: false
-        },
+
         {
           name: "Chor",
           artist: "Justh",
