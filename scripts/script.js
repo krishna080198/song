@@ -26,12 +26,12 @@ new Vue({
           favorited: false
         },
         {
-          name: "Rahgira Mila Kabira Se ",
-          artist: "Rahgir",
-          cover: "https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-wall-texture-effect-with-gold-grunge-image_15562110.jpg",
-          source: "mp3/Rahgira Mila Kabira Se Rahgir New Song.mp3",
-          url: "https://youtu.be/T1pTqbjAVQg?si=huvoCs7omOWnmTmA",
-          favorited: false
+          name: "A Playlist to Relax",
+          artist: "Unknown",
+          cover: "https://img.freepik.com/premium-photo/abstract-watercolor-background_196038-13158.jpg",
+          source: "mp3/clam.mp3",
+          url: "https://youtu.be/borBJreBaWY?si=mqp8xExFfB3iSd3R",
+          favorited: true
         },
         {
           name: "Dil Jhoom ",
@@ -51,13 +51,14 @@ new Vue({
           url: "https://youtu.be/Gg48H-lrZHo?si=vkJJEXhmWQxNQbzu",
           favorited: false
         },
+
         {
-          name: "A Playlist to Relax",
-          artist: "Unknown",
-          cover: "https://img.freepik.com/premium-photo/abstract-watercolor-background_196038-13158.jpg",
-          source: "mp3/clam.mp3",
-          url: "https://youtu.be/borBJreBaWY?si=mqp8xExFfB3iSd3R",
-          favorited: true
+          name: "Rahgira Mila Kabira Se ",
+          artist: "Rahgir",
+          cover: "https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-wall-texture-effect-with-gold-grunge-image_15562110.jpg",
+          source: "mp3/Rahgira Mila Kabira Se Rahgir New Song.mp3",
+          url: "https://youtu.be/T1pTqbjAVQg?si=huvoCs7omOWnmTmA",
+          favorited: false
         },
         {
           name: "Ek Pyar Ka Nagma Sanam",
