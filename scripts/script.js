@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Saadgi",
+          artist: "Kabul Bukhari",
+          cover: "https://www.shutterstock.com/shutterstock/videos/3457969173/thumb/1.jpg?ip=x480",
+          source: "mp3/Saadgi.mp3",
+          url: "https://youtu.be/E7UACBbaN58?si=JR5opZ-qbE8RwJHD",
+          favorited: false
+        },
+        {
           name: "Bawariya",
           artist: "Vilen",
           cover: "https://c.saavncdn.com/915/Bawariya-Hindi-2023-20231119053151-500x500.jpg",
