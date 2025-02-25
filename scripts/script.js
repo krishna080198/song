@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Abhi Na Jao Chhod Kar",
+          artist: "Asha Bhosle & Mohammed Rafi",
+          cover: "https://img.freepik.com/premium-photo/lofi-room-illustration_950633-1465.jpg",
+          source: "mp3/Abhi Na Jao Chhod Kar - LoFi Mix The Keychangers Asha Bhosle Mohammed Rafi-[AudioTrimmer.com].mp3",
+          url: "https://youtu.be/VtV0KM3xnyE?si=oFqfd5A3wvmQiXnf",
+          favorited: false
+        },
+        {
           name: "Saadgi",
           artist: "Kabul Bukhari",
           cover: "https://www.shutterstock.com/shutterstock/videos/3457969173/thumb/1.jpg?ip=x480",
